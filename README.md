@@ -10,8 +10,8 @@ It's a quiz app which checks how much you know me.
 
 ## Acknowledgements
 
-* ![LIVE PROJECT](https://replit.com/@sagarkr4560/Do-You-Know-Me?embed=1&output=1#index.js)
-* ![MY PORTFOLIO](https://portfolio-sagar.netlify.app/)
+* [LIVE PROJECT](https://replit.com/@sagarkr4560/Do-You-Know-Me?embed=1&output=1#index.js)
+* [MY PORTFOLIO](https://portfolio-sagar.netlify.app/)
 
 
 ## Screenshots
